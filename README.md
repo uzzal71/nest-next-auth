@@ -1,3 +1,14 @@
-# Nextjs auth with nestjs api
+#  Introduction to Nest JS
 
-nextjs auth with nestjs api
+- Modules
+- Controllers
+- Services
+- Routing
+- Authentication & Authorization
+- Pipes & Validations
+- Working with Database
+- Exception Handling
+- Guards & Decorators
+- File Uplaods
+- Unit Testing
+- End-to-end Testing
