@@ -12,3 +12,10 @@
 - File Uplaods
 - Unit Testing
 - End-to-end Testing
+
+# Install Nestjs
+```bash
+npm install -g @nestjs/cli
+nest --version
+```
+
