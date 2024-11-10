@@ -42,3 +42,8 @@ $ yarn run start:dev
 # production mode
 $ yarn run start:prod
 ```
+
+# Create a module
+```bash
+nest g module tweet
+```
