@@ -19,3 +19,26 @@ npm install -g @nestjs/cli
 nest --version
 ```
 
+# Creating & Running Nest JS Application
+```bash
+nest --help
+nest new 1-nestjs-intro
+```
+
+## Project setup
+
+```bash
+$ yarn install
+```
+## Compile and run the project
+
+```bash
+# development
+$ yarn run start
+
+# watch mode
+$ yarn run start:dev
+
+# production mode
+$ yarn run start:prod
+```
